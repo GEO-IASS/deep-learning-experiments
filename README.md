@@ -10,6 +10,10 @@ Full readings and file dependencies refer to [Exercise:Sparse Autoencoder](http:
 
 Note: This implementation of sparse autoencoder has already been vectorized, there is also an unvectorized implementation commented out in the code file.
 
+## Preprocessing: PCA and Whitening
+
+Full readings and file dependencies refer to [Exercise:PCA and Whitening](http://ufldl.stanford.edu/wiki/index.php/Exercise:PCA_and_Whitening).
+
 ## Softmax Regression
 
 Use softmax regression to build a softmax classifier for handwritten digits classification or other classification problems.
@@ -28,6 +32,7 @@ Building Deep Networks for Classification. Instead of using one level of sparse 
 By adopting back-propagation fine-tuning in the deep network, one can achieve much better accuracy.
 
 Full readings and file dependencies refer to [Exercise: Implement deep networks for digit classification](http://ufldl.stanford.edu/wiki/index.php/Exercise:_Implement_deep_networks_for_digit_classification).
+
 
 
 &copy; 2013 Daogan Ao &lt;wvvwwwvvvv@gmail.com&gt;
