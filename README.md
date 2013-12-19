@@ -33,6 +33,11 @@ By adopting back-propagation fine-tuning in the deep network, one can achieve mu
 
 Full readings and file dependencies refer to [Exercise: Implement deep networks for digit classification](http://ufldl.stanford.edu/wiki/index.php/Exercise:_Implement_deep_networks_for_digit_classification).
 
+## Linear Decoders with Autoencoders
+
+Sparse autoencoder with linear activation (instead of sigmoid) function at its output layer.
+
+Full readings and file dependencies refer to [Exercise:Learning color features with Sparse Autoencoders](http://ufldl.stanford.edu/wiki/index.php/Exercise:Learning_color_features_with_Sparse_Autoencoders).
 
 
 &copy; 2013 Daogan Ao &lt;wvvwwwvvvv@gmail.com&gt;
