@@ -39,5 +39,10 @@ Sparse autoencoder with linear activation (instead of sigmoid) function at its o
 
 Full readings and file dependencies refer to [Exercise:Learning color features with Sparse Autoencoders](http://ufldl.stanford.edu/wiki/index.php/Exercise:Learning_color_features_with_Sparse_Autoencoders).
 
+## Convolution and Pooling
+
+Full readings and file dependencies refer to [Exercise:Convolution and Pooling](http://ufldl.stanford.edu/wiki/index.php/Exercise:Convolution_and_Pooling).
+
+
 
 &copy; 2013 Daogan Ao &lt;wvvwwwvvvv@gmail.com&gt;
